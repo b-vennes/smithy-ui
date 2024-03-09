@@ -1,0 +1,3 @@
+package smithyui
+
+object SmithyUI {}
